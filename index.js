@@ -1,0 +1,1 @@
+prompt('Xác nhận bạn là bạn của Phan Văn Phúc Toàn bằng cách nhập ngày sinh của anh ấy ?')
